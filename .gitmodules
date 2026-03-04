@@ -1,0 +1,3 @@
+[submodule "apps/lovable-app"]
+	path = apps/lovable-app
+	url = git@github.com:jhauseux-ltsqr/test-lovable-app.git
